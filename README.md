@@ -5,7 +5,7 @@ Note: This page is still under construction!
 
 | Title | Completion Date | Description | Tools | Link(s) | 
 | --- | --- | --- | --- | --- |
-| Research - Temporal Reasoning in LLMs | May 2024 | --- | --- | --- |
+| Research - Temporal Reasoning in LLMs | May 2024 | --- | --- | [Reports](./Presentations/LLMTemporalReasoning/) |
 | Pun Detection and Location | Dec 2023 | --- | --- | --- |
 | Bicycle Usage | April 2023 | --- | --- | --- |
 | Pricing Analysis | May 2022 | --- | --- | [Final Presentation](https://datamine.purdue.edu/corporate/cla/) |
