@@ -1,8 +1,6 @@
 # 📚 Portfolio
 Here you'll find some of my personal development projects as well as educational and research work.
 
-Note: This page is still under construction!
-
 | Title | Completion Date | Description | Tools | Link(s) | 
 | --- | --- | --- | --- | --- |
 | Research - Temporal Reasoning in LLMs | May 2024 | Researched limitations of temporal reasoning with Large Language Models (LLMs). Fine-tuned different LLMs (BERT, Google FLAN-T5, Falcon 7B) through fine-tuning (masked, Q/A, graph generation) and compared results to original benchmarks. | Python (PyTorch, transformers, sklearn, pandas, NumPy, NLTK), Huggingface API | [Reports](./Presentations/LLMTemporalReasoning/) |
